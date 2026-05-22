@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Perfil secundario dedicado exclusicamente a projetos do  <strong>senai</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  
 </p>
 
 <p align="left">
